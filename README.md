@@ -1,4 +1,4 @@
-# INSIGHTIFY
+# INSIGHTIFY (Python | SQL | ReactJs | ML | Data Analysis )
 
 Welcome to INSIGHTIFY - your ultimate solution for demand forecasting and product planning!
 
