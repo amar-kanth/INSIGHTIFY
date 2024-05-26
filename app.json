@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "datatrack",
+    "slug": "datatrack",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": ["expo-font"],
+    "fonts": {
+      "primary": {
+        "asset": "./fonts/arial.ttf"
+      }
+    }
+  }
+}
